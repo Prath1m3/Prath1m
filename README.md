@@ -55,7 +55,8 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
   
 [![GitHub Stats]([![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prath1m3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Prath1m3)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prath1m3&theme=radical&layout=compact&hide_border=true)](https://github.com/Prath1m3)
+[![Top Languages]([![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prath1m3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Prath1m3)
+
 
 </div>
 
