@@ -139,4 +139,9 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
 
 *"Data is the new oil, and analytics is the engine that drives growth."* 📊
 
+
+<a href="https://buymeacoffee.com/Pratham">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
+</a>
+
 </div>
