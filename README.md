@@ -57,6 +57,9 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
 
 [![Top Languages]([![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prath1m3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Prath1m3)
 
+[![Github Streaks]([![Github Streaks](https://streak-stats.demolab.com?user=Prath1m3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Trophy Card][![Trophy](https://github-profile-trophy.vercel.app/?username=Prath1m3&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
