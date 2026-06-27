@@ -133,7 +133,7 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prath1m3)
+
 
 **⭐ Feel free to star and fork my projects!**
 
