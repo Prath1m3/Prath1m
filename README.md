@@ -60,7 +60,7 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
 
 [![Github Streaks](https://streak-stats.demolab.com?user=Prath1m3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![visitor counter](https://komarev.com/ghpvc/?username=Prath1m3&label=Profile%20Views&color=0e75b6&style=flat)
+![visitor counter](https://komarev.com/ghpvc/?username=Prath1m3&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 
