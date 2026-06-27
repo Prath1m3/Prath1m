@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prath1m3 | Data Analyst
+# 👋 Hello, I'm Pratham Chhabra | Data Analyst 
 
 <div align="center">
   
