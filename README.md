@@ -61,7 +61,7 @@ I'm a passionate **Data Analyst** committed to transforming raw data into action
 
 [![Visitor counter]![visitor counter](https://komarev.com/ghpvc/?username=Prath1m3&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![Snake contributon animation]![Snake animation](https://raw.githubusercontent.com/Prath1m3/Prath1m3/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
